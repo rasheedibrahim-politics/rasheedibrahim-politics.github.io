@@ -16,7 +16,7 @@ Active Research
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes](https://vkbostwick.weebly.com/uploads/4/5/2/2/45222553/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]).
 
-"The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*. [[Preliminary Slides](https://cseveren.github.io/files/bfrs_presentation_202110_General.pdf) (please do not cite)]
+"The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*. 
 
 
 ### Selected Works in Progress
@@ -35,7 +35,7 @@ Publications
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)", (final pre-publication draft). Forthcoming at *Review of Economics and Statistics*.
 
-"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]). Forthcoming at *American Economic Journal: Applied Economics*. [[Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [NBER WP 26091](https://www.nber.org/papers/w26091); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml)]
+"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]). Forthcoming at *American Economic Journal: Applied Economics* 14, no. 2 (2022). [[Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [NBER WP 26091](https://www.nber.org/papers/w26091); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml)]
 
 "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020): 617-632. [[NBER WP 21414](https://www.nber.org/papers/w21414)]
 
