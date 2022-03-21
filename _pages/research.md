@@ -16,7 +16,7 @@ Active Research
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes](https://vkbostwick.weebly.com/uploads/4/5/2/2/45222553/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]).
 
-"The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*. 
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf).
 
 
 ### Selected Works in Progress

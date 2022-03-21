@@ -10,13 +10,14 @@ redirect_from:
 
 
 <img align="right" src="https://cseveren.github.io/images/ChrisSeveren_UCSB_082016.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am a Senior Economist in the Research Department of the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My research interests span urban, environmental, and development economics. I completed my PhD in 2017 at the University of California, Santa Barbara, where I was advised by faculty in both the [Department of Economics](https://econ.ucsb.edu/) and the [Bren School](https://www.bren.ucsb.edu/). While I was in Santa Barbara, I raced va'a.
+I am a Senior Economist in the Research Department of the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My research interests span urban, environmental, and development economics. I completed my PhD in 2017 at the University of California, Santa Barbara, where I was advised by faculty in both the [Department of Economics](https://econ.ucsb.edu/) and the [Bren School](https://www.bren.ucsb.edu/). While I was in Santa Barbara, I [raced](https://cseveren.github.io/files/18673170_10212419321132629_776692333297586652_o.jpg) [wa'a](https://en.wikipedia.org/wiki/Outrigger_boat).
 
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### New Developments
-* Oct '21 - Happy to now be a Non-resident Senior Fellow at the Brookings Institution.
-* Jun '21 - Conditional Acceptance of my JMP "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)". Phew, it's a been a journey. Now I just have to cut it down to publishable size.
+* Mar '22 - **New** working paper alert on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf). I'm very excited about this mostly descriptive project!
+* Oct '21 - I'm now a Non-resident Senior Fellow at the Brookings Institution.
+* Jun '21 - Conditional Acceptance of my JMP "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)". Phew, it's a been a journey.
 * Mar '21 - Had the pleasure of being a Guest Panelist on the [Online Spatial and Urban Seminar](https://osus.info) to discuss Janet Currie's recent work on air pollution and environmental justice.
 
 
