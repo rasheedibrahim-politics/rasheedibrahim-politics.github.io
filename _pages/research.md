@@ -12,11 +12,12 @@ Active Research
 
 ### Working Papers
 
-"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision requested at *Review of Economics and Statistics* (short paper).
+"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision resubmitted at *Review of Economics and Statistics*.
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://vkbostwick.weebly.com/uploads/4/5/2/2/45222553/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]).
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636). Revision requested at *Journal of Urban Economics*.
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636).
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2204.pdf)" (with [Valerie Bostwick][vkb]).
+
 
 
 ### Selected Works in Progress
