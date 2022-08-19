@@ -19,7 +19,6 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 * Mar '22 - **New** working paper alert on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf).
 * Oct '21 - I'm now a Non-resident Senior Fellow at the Brookings Institution.
 * Jun '21 - Conditional Acceptance of my JMP "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)". Phew, it's a been a journey.
-* Mar '21 - Had the pleasure of being a Guest Panelist on the [Online Spatial and Urban Seminar](https://osus.info) to discuss Janet Currie's recent work on air pollution and environmental justice.
 
 
 ### Links for Posterity

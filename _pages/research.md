@@ -12,12 +12,9 @@ Active Research
 
 ### Working Papers
 
-"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision resubmitted at *Review of Economics and Statistics*.
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636). FRB Philadelphia WP 22-13 (2022). Revision requested at *Journal of Urban Economics*.
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636). Revision requested at *Journal of Urban Economics*.
-
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2204.pdf)" (with [Valerie Bostwick][vkb]).
-
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2204.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022).
 
 
 ### Selected Works in Progress
@@ -27,12 +24,13 @@ Active Research
 "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
 
-
 <h2 id="pubs">
 Publications
 </h2>
 
 ### Peer-Reviewed Publications
+
+"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Conditionally Accepted at *Review of Economics and Statistics*.
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)", (final pre-publication draft). Forthcoming at *Review of Economics and Statistics*.
 
@@ -47,6 +45,7 @@ Publications
 "[A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177)" with [Chris Costello][ccostello], and [Olivier Deschênes][odeschenes]. *Journal of Environmental Economics and Management* 89 (2018): 235-254. [[Supplemental Material](https://cseveren.github.io/files/ricardian_Appendix.pdf), [Pre-print](https://cseveren.github.io/files/ricardian_Final.pdf)]
 
 "Rural Entrepreneurial Education: An Innovative Piece of Practical Development in Latin America." *Student Journal of Latin American Studies* 1 (2009): 26–51.
+
 
 ### Books, Chapters, and Essays
 
