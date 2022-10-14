@@ -12,9 +12,9 @@ Active Research
 
 ### Working Papers
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Recent [slides](https://cseveren.github.io/files/racialized_difference_commuting_present_202203.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636). FRB Philadelphia WP 22-13 (2022). Revision requested at *Journal of Urban Economics*.
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). FRB Philadelphia WP 22-13 (2022). Currently revising; revision requested at *Journal of Urban Economics*. [[Twitter thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/)]
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2204.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022).
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2204.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022). Currently revising.
 
 
 ### Selected Works in Progress
@@ -23,6 +23,7 @@ Active Research
 
 "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
 
+"Deviating from Gravity."
 
 <h2 id="pubs">
 Publications
@@ -34,7 +35,7 @@ Publications
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)", (final pre-publication draft). Forthcoming at *Review of Economics and Statistics*.
 
-"[Formative Experiences and the Price of Gasoline](https://www.aeaweb.org/articles?id=10.1257/app.20200407)" (with [Arthur van Benthem][avb]). Forthcoming at *American Economic Journal: Applied Economics* 14, no. 2 (2022): 256–284. [Pre-print](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf); [[Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1359217314714046464); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml)]
+"[Formative Experiences and the Price of Gasoline](https://www.aeaweb.org/articles?id=10.1257/app.20200407)" (with [Arthur van Benthem][avb]). *American Economic Journal: Applied Economics* 14, no. 2 (2022): 256–284. [Pre-print](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf); [[Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1359217314714046464); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml)]
 
 "[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020): 617-632. [[NBER WP 21414](https://www.nber.org/papers/w21414)]
 
