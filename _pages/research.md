@@ -12,9 +12,9 @@ Active Research
 
 ### Working Papers
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). FRB Philadelphia WP 22-13 (2022). Revision requested at *Journal of Urban Economics*. [[Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/)]
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). FRB Philadelphia WP 22-13 (2022). Revision requested at *Journal of Urban Economics*, **update coming soon**. [[Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/)]
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2209.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022). Currently revising.
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2212.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022, [older version](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf)). Currently revising.
 
 
 ### Selected Works in Progress
@@ -31,7 +31,7 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Conditionally Accepted at *Review of Economics and Statistics*.
+"Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Conditionally Accepted at *Review of Economics and Statistics*. [[Final version](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [older NBER WP](https://www.nber.org/papers/w28152)]
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)" (links to final pre-publication draft). Forthcoming at *Review of Economics and Statistics*. [[Thread](https://twitter.com/ChrisSeveren/status/1424765832974962690)]
 
