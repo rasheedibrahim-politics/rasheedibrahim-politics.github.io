@@ -15,9 +15,9 @@ I am an Economic Advisor and Economist in the Research Department of the [Federa
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### New Developments
+* Dec '22 - **New/updated** working paper on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_202212.pdf). This new version addresses market access, selection, and housing capitalization of commute times.
 * Dec/Sept/May '22 - **New/updated** working paper studying how [driving restrictions impact teen school and work outcomes](https://cseveren.github.io/files/Driving_Dropouts_Draft_2212.pdf). This one has it all: reduced form DDD, structural models, simulations, whoa.
 * Nov '22 - Our paper on [Lockdowns and Innovation](https://cseveren.github.io/files/pandemic_innovation_final.pdf) during the 1918 Flu Pandemic is accepted at ReStat!
-* Mar '22 - **New** working paper alert on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_20220320.pdf).
 * Oct '21 - I'm now a Non-resident Senior Fellow at the Brookings Institution.
 * Jun '21 - Conditional Acceptance of my JMP "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)". Phew, it's a been a journey.
 
