@@ -29,7 +29,9 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). FRB Philadelphia WP 22-13 (2022). Accepted at *Journal of Urban Economics*. [[Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/)]
+"Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference" (with [L.E. Dee][led], [P.J. Ferraro][pjf], K. Kimmel, E. Borer, and [Nutrient Network](https://nutnet.org/)). Accepted at *Nature Communications*.
+
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Accepted at *Journal of Urban Economics*. FRB Philadelphia WP 22-13 (2022). [[Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/)]
 
 "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Forthcoming at *Review of Economics and Statistics*. [[Final version](https://cseveren.github.io/files/pandemic_innovation_Final.pdf), [older NBER WP](https://www.nber.org/papers/w28152)]
 
@@ -65,7 +67,9 @@ Publications
 [jlin]: http://www.jlin.org
 [kjack]: http://kelseyjack.bren.ucsb.edu/
 [lar]: https://lyndseyrolheiser.com/
+[led]: [https://www.lauraedee.com/]
 [odeschenes]: https://econ.ucsb.edu/~olivier/
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
+[pjf]: https://www.pauljferraro.com/
 [ruben]: https://sites.google.com/view/rubengaetani
 [vkb]: https://vkbostwick.weebly.com/
