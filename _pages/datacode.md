@@ -19,7 +19,7 @@ Philly-area electricity-based indicator of economic disruption (discontinued Sum
 
 
 ### In Progress
-* Historical county-level vehicle registration data in the United States (1900-1960)
+* Historical county-level vehicle registration data in the United States
 
 ### Useful Tweets
 * [Spatial Methods: Querying from HERE (in R) for matrix of travel times](https://twitter.com/ChrisSeveren/status/1255944834201923586)

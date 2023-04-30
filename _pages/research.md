@@ -23,6 +23,10 @@ Active Research
 
 "Deviating from Gravity."
 
+"Housing Price and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
+
+"Mortality Consequences of the Interstate Highway System" (with [Dustin Frye][dfrye]).
+
 <h2 id="pubs">
 Publications
 </h2>
@@ -50,16 +54,19 @@ Publications
 "Rural Entrepreneurial Education: An Innovative Piece of Practical Development in Latin America." *Student Journal of Latin American Studies* 1 (2009): 26–51.
 
 
-### Books, Chapters, and Essays
+### Books, Chapters, Essays, and Research Reports
+
+"[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). 
 
 "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
 
 
 
-
+[anamm]: https://sites.google.com/view/ana-moreno-maldonado/
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
 [avb]: http://www.arthurvanbenthem.com/
 [ccostello]: https://christopherjcostello.com/
+[dfrye]: https://dustinfrye.github.io/
 [dhc]: https://hernandezcortes.github.io/
 [dmb]: https://www.devinbunten.com/
 [eberkes]: https://sites.google.com/view/enricoberkes/home
