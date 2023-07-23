@@ -12,7 +12,7 @@ Active Research
 
 ### Working Papers
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2212.pdf)" (with [Valerie Bostwick][vkb]). FRB Philadelphia WP 22-22 (2022, [older version](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf)). Submitted.
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2305.pdf)" (with [Valerie Bostwick][vkb]). Revisions requested at *AEJ: Policy*. FRB Philadelphia WP 22-22 (2022, [older version](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf)). 
 
 
 ### Selected Works in Progress
@@ -39,7 +39,7 @@ Publications
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Final.pdf)" (links to final pre-publication draft). Forthcoming at *Review of Economics and Statistics*. [[Thread](https://twitter.com/ChrisSeveren/status/1424765832974962690)]
 
-"[Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference](https://www.nature.com/articles/s41467-023-37194-5)" (with [L.E. Dee][led], [P.J. Ferraro][pjf], K. Kimmel, E. Borer, and [Nutrient Network](https://nutnet.org/)). *Nature Communications* 14:2607 (2023). [[Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-37194-5/MediaObjects/41467_2023_37194_MOESM1_ESM.pdf), [Data & Code](https://github.com/LauraDee/NutNetCausalinf)]
+"[Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference](https://www.nature.com/articles/s41467-023-37194-5)" (with [L.E. Dee][led], [P.J. Ferraro][pjf], K. Kimmel, E. Borer, and [Nutrient Network](https://nutnet.org/)). *Nature Communications* 14:2607 (2023). [[Thread](https://twitter.com/LauraEllenDee/status/1657380444726493184), [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-37194-5/MediaObjects/41467_2023_37194_MOESM1_ESM.pdf), [Data & Code](https://github.com/LauraDee/NutNetCausalinf)]
 
 "[Formative Experiences and the Price of Gasoline](https://www.aeaweb.org/articles?id=10.1257/app.20200407)" (with [Arthur van Benthem][avb]). *American Economic Journal: Applied Economics* 14, no. 2 (2022): 256–284. [[Pre-print](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf); [Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1359217314714046464); Replication: [ICPSR](https://www.openicpsr.org/openicpsr/project/127261) (data/code) and [Github repo](https://github.com/cseveren/FormativeExperiences) (code); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [NYTimes Upshot](https://www.nytimes.com/2022/10/25/upshot/gas-prices-biden-midterms.html), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml), Research Highlight in [*Nature Energy*](https://www.nature.com/articles/s41560-021-00875-w.epdf)]
 
