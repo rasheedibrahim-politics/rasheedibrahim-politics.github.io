@@ -56,6 +56,8 @@ Publications
 
 ### Books, Chapters, Essays, and Research Reports
 
+"[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25.
+
 "[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). 
 
 "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
