@@ -56,7 +56,7 @@ Publications
 
 ### Books, Chapters, Essays, and Research Reports
 
-"[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25.
+"[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25. [Press: [Inquirer](https://www.inquirer.com/jobs/labor/black-workers-commuting-longer-philadelphia-federal-reserve-bank-20231017.html), [KYW](https://www.audacy.com/kywnewsradio/news/local/philadelphia-black-workers-have-longer-work-commutes-than-white-workers)]
 
 "[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). 
 
