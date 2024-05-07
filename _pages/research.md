@@ -33,9 +33,9 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). Accepted at *Journal of Urban Economics*. FRB Philadelphia WP 22-13 (2022). [[Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/); [Code Repo (Data TBD)](https://github.com/cseveren/RacializedCommutes)]
-
 "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Forthcoming at *Review of Economics and Statistics*. [[Final version](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [older NBER WP](https://www.nber.org/papers/w28152)]
+
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000116)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Journal of Urban Economics* 141, 103542. [[Pre-print](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf), [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/); [Code Repo (Data TBD)](https://github.com/cseveren/RacializedCommutes)]
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://doi.org/10.1162/rest_a_01100). *Review of Economics and Statistics* 105, no. 5 (2023), 1073-1091. [[Pre-print](https://cseveren.github.io/files/Severen_LAMetro_Final.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1424765832974962690); [Replication](https://doi.org/10.7910/DVN/SWCGSP)]
 

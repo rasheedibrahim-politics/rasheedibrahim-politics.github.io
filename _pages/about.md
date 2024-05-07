@@ -19,8 +19,6 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 * May '23 - What started as an interdisciplinary chat turned into a paper and is now out at Nature Communications (with Laura Dee and Paul Ferraro)! This long-running project applies causal econometric techniques to the analysis of [biodiversity and (grassland) productivity](https://www.nature.com/articles/s41467-023-37194-5).
 * Mar '23 - New Brookings post about whether currents trends in vehicle usage represent a [change in preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/) (the answer: no, at least not yet).
 * Jan '23 - Our paper on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf) has been accepted at JUE! This final version addresses market access, selection, and housing capitalization of commute times.
-* Nov '22 - Our paper on [Lockdowns and Innovation](https://cseveren.github.io/files/pandemic_innovation_Final.pdf) during the 1918 Flu Pandemic is accepted at ReStat!
-* Jun '21 - Conditional Acceptance of my JMP "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Final.pdf)". Phew, it's a been a journey. It might even get published in 2023?
 
 
 ### Links for Posterity
