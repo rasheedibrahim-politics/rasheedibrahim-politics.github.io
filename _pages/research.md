@@ -12,12 +12,12 @@ Active Research
 
 ### Working Papers
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/Driving_Dropouts_Draft_2305.pdf)" (with [Valerie Bostwick][vkb]). Revisions requested at *AEJ: Policy*. FRB Philadelphia WP 22-22 (2022, [older version](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf)). 
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]). Resubmitted at *AEJ: Policy* (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
 
 ### Selected Works in Progress
 
-"Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]). *Slides, preliminary draft available by request*.
+"Subways, Bus Rapid Transit, and Reductions in Vehicle Use: Evidence from Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]). *Slides, preliminary draft available by request*.
 
 "Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]).
 
@@ -35,7 +35,7 @@ Publications
 
 "Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Forthcoming at *Review of Economics and Statistics*. [[Final version](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [older NBER WP](https://www.nber.org/papers/w28152)]
 
-"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000116)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Journal of Urban Economics* 141, 103542. [[Pre-print](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf), [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/); [Code Repo (Data TBD)](https://github.com/cseveren/RacializedCommutes)]
+"[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000116)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Journal of Urban Economics* 141 (2024), 103542. [[Pre-print](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf), [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/); [Code Repo (Data TBD)](https://github.com/cseveren/RacializedCommutes)]
 
 "[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://doi.org/10.1162/rest_a_01100). *Review of Economics and Statistics* 105, no. 5 (2023), 1073-1091. [[Pre-print](https://cseveren.github.io/files/Severen_LAMetro_Final.pdf); [Thread](https://twitter.com/ChrisSeveren/status/1424765832974962690); [Replication](https://doi.org/10.7910/DVN/SWCGSP)]
 
