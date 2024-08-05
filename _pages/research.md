@@ -19,13 +19,19 @@ Active Research
 
 "Subways, Bus Rapid Transit, and Reductions in Vehicle Use: Evidence from Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]). *Slides, preliminary draft available by request*.
 
-"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]).
+"Scale Effects of Rapid Transit and Automobile Adoption" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
 
 "Deviating from Gravity."
 
-"Housing Price and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
-
 "Mortality Consequences of the Interstate Highway System" (with [Dustin Frye][dfrye]).
+
+"Tableau Vivant: A Compound AI System for Cheaper and Efficient Table Digitization at Scale" (with Veronica Backer Peral and [Vitaly Meursault][vitaly]).
+
+"Housing Prices and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
+
+"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]).
+
+
 
 <h2 id="pubs">
 Publications
@@ -58,7 +64,7 @@ Publications
 
 "[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25. [Press: [Inquirer](https://www.inquirer.com/jobs/labor/black-workers-commuting-longer-philadelphia-federal-reserve-bank-20231017.html), [KYW](https://www.audacy.com/kywnewsradio/news/local/philadelphia-black-workers-have-longer-work-commutes-than-white-workers)]
 
-"[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). 
+"[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). [Press: [Dallas Morning News](https://www.dallasnews.com/business/autos/2024/07/22/meet-the-people-choosing-to-live-car-free-in-dallas/)]
 
 "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
 
@@ -81,4 +87,6 @@ Publications
 [poliva]: https://dornsife.usc.edu/paulina-oliva/
 [pjf]: https://www.pauljferraro.com/
 [ruben]: https://sites.google.com/view/rubengaetani
+[vitaly]: https://www.vmeursault.com/
 [vkb]: https://vkbostwick.weebly.com/
+
