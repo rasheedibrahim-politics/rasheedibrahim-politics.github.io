@@ -7,7 +7,10 @@ author_profile: true
 Data and code packets for published papers are either available on the publication website or upon request from my coauthors and I (except when data sharing limitations apply).
 
 ### Complete
-[Github Repo](https://github.com/cseveren/RacializedCommutes)] for "The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019" (email me for a data link).
+
+[Github Repo](https://github.com/cseveren/RacializedCommutes) for "Upweighting Recent Immigrants in the CPS" (*Research Brief* forthcoming in early January 2025)
+
+[Github Repo](https://github.com/cseveren/RacializedCommutes) for "The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019" (email me for a data link)
 
 Replication [ICPSR package](https://www.openicpsr.org/openicpsr/project/127261) and [Github repo](https://github.com/cseveren/FormativeExperiences) for "Formative Experiences and the Price of Gasoline"
 

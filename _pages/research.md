@@ -14,18 +14,20 @@ Active Research
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
+"Upweighting Recent Immigrants in the CPS," *Research Brief to be published Jan 2025*, [[Repo](https://github.com/cseveren/upweighting-recent-immigrants)].
 
 ### Selected Works in Progress
 
-"Subways, Bus Rapid Transit, and Reductions in Vehicle Use: Evidence from Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]). *Slides, preliminary draft available by request*.
 
-"Scale Effects of Rapid Transit and Automobile Adoption" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).
-
-"Deviating from Gravity."
+"Scale Effects of Rapid Transit and Automobile Adoption" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).  *Slides, preliminary draft available by request*.
 
 "Mortality Consequences of the Interstate Highway System" (with [Dustin Frye][dfrye]).
 
 "Tableau Vivant: A Compound AI System for Cheaper and Efficient Table Digitization at Scale" (with Veronica Backer Peral and [Vitaly Meursault][vitaly]).
+
+"Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
+
+"Deviating from Gravity."
 
 "Housing Prices and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
 
@@ -70,10 +72,12 @@ Publications
 
 
 
+[allison]: https://www.allisonshertzer.com/
 [anamm]: https://sites.google.com/view/ana-moreno-maldonado/
 [aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
 [avb]: http://www.arthurvanbenthem.com/
 [ccostello]: https://christopherjcostello.com/
+[coury]: https://www.michaelrcoury.com/
 [dfrye]: https://dustinfrye.github.io/
 [dhc]: https://hernandezcortes.github.io/
 [dmb]: https://www.devinbunten.com/
@@ -89,4 +93,7 @@ Publications
 [ruben]: https://sites.google.com/view/rubengaetani
 [vitaly]: https://www.vmeursault.com/
 [vkb]: https://vkbostwick.weebly.com/
+
+
+
 
