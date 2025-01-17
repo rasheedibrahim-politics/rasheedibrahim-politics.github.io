@@ -14,8 +14,6 @@ Active Research
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
-"Upweighting Recent Immigrants in the CPS," *Research Brief to be published Jan 2025*, [[Repo](https://github.com/cseveren/upweighting-recent-immigrants)].
-
 ### Selected Works in Progress
 
 
@@ -63,6 +61,8 @@ Publications
 
 
 ### Books, Chapters, Essays, and Research Reports
+
+"[Delayed Sampling of Recent Immigrants in the Current Population Survey](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey),” *FRBP Research Brief* (2025), [[Repo](https://github.com/cseveren/upweighting-recent-immigrants)].
 
 "[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25. [Press: [Inquirer](https://www.inquirer.com/jobs/labor/black-workers-commuting-longer-philadelphia-federal-reserve-bank-20231017.html), [KYW](https://www.audacy.com/kywnewsradio/news/local/philadelphia-black-workers-have-longer-work-commutes-than-white-workers)]
 
