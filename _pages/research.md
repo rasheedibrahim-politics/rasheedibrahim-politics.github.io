@@ -25,7 +25,7 @@ Active Research
 
 "Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
 
-"Deviating from Gravity."
+"Defying Gravity: Persistence in Commuting Flows"
 
 "Housing Prices and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
 
