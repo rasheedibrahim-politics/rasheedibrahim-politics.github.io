@@ -15,11 +15,10 @@ I am an Economic Advisor and Economist in the Research Department of the [Federa
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### New Developments
+* Apr '25 - I'll be teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall! Excited to put together my (moderately opinionated) take on the good, the bad, and the ugly of these models.
 * Jan '25 - Are recent immigrants particularly unlikely to be captured in the CPS? Yes... Read my [research brief](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey); [repo here](https://github.com/cseveren/upweighting-recent-immigrants). 
 * Jun '24 - Updated draft about [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/), now shows long-run effects.
 * May '23 - What started as an interdisciplinary chat turned into a paper and is now out at Nature Communications (with Laura Dee and Paul Ferraro)! This long-running project applies causal econometric techniques to the analysis of [biodiversity and (grassland) productivity](https://www.nature.com/articles/s41467-023-37194-5).
-* Mar '23 - New Brookings post about whether currents trends in vehicle usage represent a [change in preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/) (the answer: no, at least not yet).
-* Jan '23 - Our paper on [racialized differences in commuting outcomes in the US since 1980](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf) has been accepted at JUE! This final version addresses market access, selection, and housing capitalization of commute times.
 
 
 ### Links for Posterity
