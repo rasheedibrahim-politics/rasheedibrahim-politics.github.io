@@ -12,6 +12,8 @@ Active Research
 
 ### Working Papers
 
+"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2025).
+
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
 ### Selected Works in Progress
@@ -20,8 +22,6 @@ Active Research
 "Scale Effects of Rapid Transit and Automobile Adoption" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).  *Slides, preliminary draft available by request*.
 
 "Mortality Consequences of the Interstate Highway System" (with [Dustin Frye][dfrye]).
-
-"Tableau Vivant: A Compound AI System for Cheaper and Efficient Table Digitization at Scale" (with Veronica Backer Peral and [Vitaly Meursault][vitaly]).
 
 "Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
 
@@ -92,6 +92,7 @@ Publications
 [pjf]: https://www.pauljferraro.com/
 [ruben]: https://sites.google.com/view/rubengaetani
 [vitaly]: https://www.vmeursault.com/
+[vbp]: https://sites.google.com/view/veronicabp/home
 [vkb]: https://vkbostwick.weebly.com/
 
 

@@ -15,6 +15,8 @@ I am an Economic Advisor and Economist in the Research Department of the [Federa
 Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
 
 ### New Developments
+
+* May '25 - Turns out LLMs are pretty great at cheaply and easily digitizing very heterogeneously structured historical tabular data. Check out our simple [pipeline and validation in a new WP using data on historical vehicle adoption](https://cseveren.github.io/files/Hist_LLM.pdf).
 * Apr '25 - I'll be teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall! Excited to put together my (moderately opinionated) take on the good, the bad, and the ugly of these models.
 * Jan '25 - Are recent immigrants particularly unlikely to be captured in the CPS? Yes... Read my [research brief](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey); [repo here](https://github.com/cseveren/upweighting-recent-immigrants). 
 * Jun '24 - Updated draft about [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/), now shows long-run effects.
