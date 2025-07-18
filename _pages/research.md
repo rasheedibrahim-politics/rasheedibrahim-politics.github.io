@@ -16,8 +16,8 @@ Active Research
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
-### Selected Works in Progress
 
+### Selected Works in Progress
 
 "Scale Effects of Rapid Transit and Automobile Adoption" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]).  *Slides, preliminary draft available by request*.
 
@@ -25,12 +25,9 @@ Active Research
 
 "Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
 
-"Defying Gravity: Persistence in Commuting Flows"
+"Evaluating Urban Transportation with Quantitative Spatial Models."
 
-"Housing Prices and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
-
-"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]).
-
+"Defying Gravity: Persistence in Commuting Flows."
 
 
 <h2 id="pubs">
@@ -69,6 +66,16 @@ Publications
 "[Why are young people driving less? Evidence points to economics, not preferences](https://www.brookings.edu/research/why-are-young-people-driving-less-evidence-points-to-economics-not-preferences/)." *Brookings Research Report* (March 24, 2023). [Press: [Dallas Morning News](https://www.dallasnews.com/business/autos/2024/07/22/meet-the-people-choosing-to-live-car-free-in-dallas/)]
 
 "[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
+
+
+### Resting Projects
+
+"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]).
+
+"Housing Prices and Family Formation" (with [Ana Moreno-Maldonado][anamm] and Belén Rodríguez-Moro).
+
+
+
 
 
 
