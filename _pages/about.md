@@ -11,7 +11,7 @@ redirect_from:
 <img align="right" 
      src="https://rasheedibrahim-politics.github.io/images/IMAGE1.JPG" 
      alt="Photo" 
-     style="width: 30%; border-radius: 10px; padding: 8px"/>
+     style="width: 40%; border-radius: 10px; padding: 8px"/>
 
 I am an Economic Advisor and Economist in the Research Department of the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My research spans urban, environmental, and development economics. I completed my PhD in 2017 at the University of California, Santa Barbara, where I was advised by faculty in both the [Department of Economics](https://econ.ucsb.edu/) and the [Bren School](https://www.bren.ucsb.edu/). While I was in Santa Barbara, I [raced](https://cseveren.github.io/files/18673170_10212419321132629_776692333297586652_o.jpg) [wa'a](https://en.wikipedia.org/wiki/Outrigger_boat).
 
