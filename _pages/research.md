@@ -7,23 +7,21 @@ author_profile: true
 
 ### Dissertation
 
-"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2025). [[arXiv version](http://arxiv.org/abs/2505.11599)]
-
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
+Summary of Dissertation Here
 
 
 ### Under Review 
 
 
-The Chief’s Resource Curse: Land Quality and Corruption among Traditional Leaders (with Vladimir Chlouba)
+• The Chief’s Resource Curse: Land Quality and Corruption among Traditional Leaders (with Vladimir Chlouba)
 
-Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
+• Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
 
 
 
 ### In Preparation for Submission
 
-Does Bringing Government Closer Build Trust? Evidence from Kenya’s Devolution
+• Does Bringing Government Closer Build Trust? Evidence from Kenya’s Devolution
 
 • Youth Engagement in Politics and Civil Society in Northern Ghana (with Jaimie Bleck, Paul Friesen and Kevin
 Fridy)
