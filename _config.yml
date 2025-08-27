@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Severen, PhD"
+title                    : "Rasheed Ibrahim"
 title_separator          : "-"
-name                     : &name "Chris Severen"
+name                     : &name "Rasheed Ibrahim"
 description              : &description "Chris Severen's Academic Website"
 url                      : https://rasheedibrahim-politics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Severen"
+  name             : "Rasheed Ibrahim"
   avatar           : "ChrisSeveren_UCSB_082016.jpg"
-  bio              : "Economic Advisor and Economist at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
+  bio              : "PhD Candidate: Comparative Politics and Methodology."
   location         : "Philadelphia, PA, USA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
-  email            : "chris.severen@gmail.com"
+  googlescholar    : ""
+  email            : "ribrahim@nd.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cseveren"
+  github           : "rasheedibrahim-politics"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChrisSeveren"
+  twitter          : "rash_sulganni"
   vine             :
   weibo            :
   xing             :
