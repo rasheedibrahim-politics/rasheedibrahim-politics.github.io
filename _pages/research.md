@@ -12,7 +12,7 @@ author_profile: true
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
 
-### Under Review
+### Under Review 
 
 
 The Chief’s Resource Curse: Land Quality and Corruption among Traditional Leaders (with Vladimir Chlouba)
@@ -20,10 +20,6 @@ The Chief’s Resource Curse: Land Quality and Corruption among Traditional Lead
 Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
 
 
-
-<h2 id="pubs">
-Publications
-</h2>
 
 ### In Preparation for Submission
 
