@@ -4,10 +4,10 @@ main:
     url: /datacode/
     
   - title: "Research"
-    url: /research/
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /research/
+  - title: "Teaching"
+    url: /teaching/
