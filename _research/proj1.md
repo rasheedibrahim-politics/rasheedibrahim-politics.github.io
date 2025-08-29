@@ -1,6 +1,6 @@
 ---
 title: "Youth Perception of Foreign Actors in Africa"
-collection: teaching
+collection: research
 type: "PhD Econometrics"
 permalink: /research/project1
 venue: ""
