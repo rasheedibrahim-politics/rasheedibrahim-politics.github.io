@@ -1,10 +1,10 @@
 ---
-title: "Project1"
+title: "Youth Perception of Foreign Actors in Africa"
 collection: teaching
 type: "PhD Econometrics"
 permalink: /research/project1
-venue: "UCSB"
-date: 2013-10-01
+venue: ""
+date: 
 location:
 ---
 
