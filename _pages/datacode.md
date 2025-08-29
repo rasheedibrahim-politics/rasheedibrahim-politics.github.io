@@ -1,34 +1,7 @@
 ---
-title: "Data and Code"
-permalink: /datacode/
+title: "Dissertation Project"
+permalink: /dissertation/
 author_profile: true
 ---
 
-Data and code packets for published papers are either available on the publication website or upon request from my coauthors and I (except when data sharing limitations apply).
-
-### Complete
-
-[Github Repo](https://github.com/cseveren/RacializedCommutes) for "Upweighting Recent Immigrants in the CPS" (*Research Brief* forthcoming in early January 2025)
-
-[Github Repo](https://github.com/cseveren/RacializedCommutes) for "The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019" (email me for a data link)
-
-Replication [ICPSR package](https://www.openicpsr.org/openicpsr/project/127261) and [Github repo](https://github.com/cseveren/FormativeExperiences) for "Formative Experiences and the Price of Gasoline"
-
-[Data and code repo](https://github.com/LauraDee/NutNetCausalinf) for "Clarifying the effect of biodiversity on productivity in natural ecosystems with longitudinal data and methods for causal inference"
-
-Minimum Driving Age Database
-* [Initial Release (Nov. 2020)](https://github.com/cseveren/MinimumDrivingAgeDatabase)
-* Covers historical state-level minimum driver license ages from (1968-2015)
-* Used in Severen & van Benthem (2022) and Bostwick & Severen (2023)
-
-Philly-area electricity-based indicator of economic disruption (discontinued Summer 2020):
-* [Results, data, and code](https://github.com/cseveren/PA-Electricity-Economic-Disruption)
-
-
-### In Progress
-* Historical county-level vehicle registration data in the United States
-* County-level mortality by cause of death in the United States, 1945-1968
-
-### Useful Tweets
-* [Spatial Methods: Querying from HERE (in R) for matrix of travel times](https://twitter.com/ChrisSeveren/status/1255944834201923586)
-* [Spatial Methods: Using Graphhopper (using R and Java) to get shapefiles of optimal routes at scale](https://twitter.com/ChrisSeveren/status/1288167885739888640)
+Why are voters in the habit of contacting their Members of Parliament (MPs) for constituency services and development even though those responsibilities mostly under purview of mayors and district and municipal executives? I argue that this is not a function of ignorance. Instead, I show how, when, and why citizens act strategically when they engage in political contact. Theoretically, my project reframes accountability in Africa not as a function of institutional design alone but as an interactive process shaped by citizens’ strategic assessments of elite vulnerability. First, citizens target MPs because MPs are electorally accountable elites who can use their proximity to power to lobby projects and services for their constituents. Second, I draw on Afrobarometer surveys, constituency-level elections, elite interviews with MPs, and original focus groups interviews to  show that voters in high-turnover constituencies are more likely to contact MPs. Finally, I show that voters are strategic by choosing when to contact – contacting more during the elections – and whom to contact – by contacting more if an MP holds an executive position and thus perceived as having more direct access to resources. My overarching theoretical contribution is that voters are strategic actors who perceive the most electorally accountable and able to deliver MPs and direct to whom they direct their demands even if they are not formally responsible for said services.
