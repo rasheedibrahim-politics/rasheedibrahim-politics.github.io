@@ -12,7 +12,7 @@ First project
 
 
 <img align="right" 
-     src="https://rasheedibrahim-politics.github.io/images/IMAGE1.JPG" 
+     src="https://rasheedibrahim-politics.github.io/images/CIV1.JPG" 
      alt="Photo" 
      style="width: 30%; border-radius: 10px; padding: 8px"/>
 
