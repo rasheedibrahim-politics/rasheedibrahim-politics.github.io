@@ -15,7 +15,7 @@ Scholars disagree about whether traditional leaders are inherently undemocratic 
 <img align="center" 
      src="https://rasheedibrahim-politics.github.io/images/resourcecurse.jpg" 
      alt="Photo" 
-     style="width: 30%; border-radius: 10px; padding: 8px"/>
+     style="width: 70%; border-radius: 10px; padding: 8px"/>
 
 
 • Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
