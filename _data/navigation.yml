@@ -6,9 +6,6 @@ main:
     
   - title: "DISSERTATION"
     url: /dissertation/
-    
-  - title: "RESEARCH"
-    url: /research/
 
   - title: "TEACHING"
     url: /teaching/
