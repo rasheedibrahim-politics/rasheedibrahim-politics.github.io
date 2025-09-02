@@ -5,10 +5,10 @@ author_profile: true
 ---
 
 
-### Under Review 
+# Under Review 
 
 
-## The Chief’s Resource Curse: Land Quality and Corruption among Traditional Leaders (with Vladimir Chlouba)
+### The Chief’s Resource Curse: Land Quality and Corruption among Traditional Leaders (with Vladimir Chlouba)
 
 Scholars disagree about whether traditional leaders are inherently undemocratic and corrupt or constrained by informal accountability mechanisms. We advance this debate by developing the concept of a “chief's resource curse,” which posits that control over valuable resources drives traditional leaders' corrupt behavior, but only in contexts where informal checks on their power are weak. Using continent-wide survey data from Africa combined with a geocoded measure of land value, we show that higher soil quality is associated with greater perceived corruption among chiefs, but only where local institutions are less accountable. This interaction is robust across multiple model specifications and persists after adjusting for a range of individual-, group-level controls. These findings suggest that traditional leaders’ behavior is shaped not only by the material endowments they oversee but also by the informal institutional context in which they govern, highlighting the importance of accountability in curbing elite abuse in non-electoral settings.   
 
@@ -19,7 +19,7 @@ Scholars disagree about whether traditional leaders are inherently undemocratic 
 
 
 
-## Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
+### Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
 
 Clientelism literature has established voters demand for favoured status once their representative is in office. Empirical evidence on whether elites favor their partisan base once in office is mixed. While some have argued that representatives favor their voter base to keep them happy and loyal, others have found that elites in attempt to broaden their base favour swing voters. This study contributes to this seeming mismatch by tying distribution directly to voter demands. Across the global south, voters make direct demands to their representatives. This study investigates the extent to which elites responde these direct demands and how partisanship shapes this likelihood. We find that voters who contact their MPs are more likely to see improvement in infrastructure if they are politically align with their MP and if their party has absolute political control of the constituency.
 
@@ -27,11 +27,11 @@ Clientelism literature has established voters demand for favoured status once th
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues1.png" 
      alt="Photo 1" 
-     style="width: 45%; border-radius: 10px; padding: 8px"/>
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues2.png" 
      alt="Photo 2" 
-     style="width: 45%; border-radius: 10px; padding: 8px"/>
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
 </div>
 
 ### In Preparation for Submission
