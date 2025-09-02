@@ -15,8 +15,6 @@ author_profile: true
      style="width: 50%; border-radius: 10px; padding: 8px"/>
 </div>
 
-
-
      
 
 # Under Review 
