@@ -15,7 +15,7 @@ Scholars disagree about whether traditional leaders are inherently undemocratic 
 <img align="center" 
      src="https://rasheedibrahim-politics.github.io/images/resourcecurse.jpg" 
      alt="Photo" 
-     style="width: 80%; border-radius: 10px; padding: 8px"/>
+     style="width: 70%; border-radius: 10px; padding: 8px"/>
 
 
 
@@ -23,16 +23,16 @@ Scholars disagree about whether traditional leaders are inherently undemocratic 
 
 Clientelism literature has established voters demand for favoured status once their representative is in office. Empirical evidence on whether elites favor their partisan base once in office is mixed. While some have argued that representatives favor their voter base to keep them happy and loyal, others have found that elites in attempt to broaden their base favour swing voters. This study contributes to this seeming mismatch by tying distribution directly to voter demands. Across the global south, voters make direct demands to their representatives. This study investigates the extent to which elites responde these direct demands and how partisanship shapes this likelihood. We find that voters who contact their MPs are more likely to see improvement in infrastructure if they are politically align with their MP and if their party has absolute political control of the constituency.
 
-<img align="left" 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues1.png" 
-     alt="Photo" 
-     style="width: 70%; border-radius: 10px; padding: 8px"/>
-
-<img align="right" 
+     alt="Photo 1" 
+     style="width: 45%; border-radius: 10px; padding: 8px"/>
+  <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues2.png" 
-     alt="Photo" 
-     style="width: 70%; border-radius: 10px; padding: 8px"/>
-
+     alt="Photo 2" 
+     style="width: 45%; border-radius: 10px; padding: 8px"/>
+</div>
 
 ### In Preparation for Submission
 
