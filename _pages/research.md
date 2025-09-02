@@ -4,11 +4,18 @@ permalink: /research/
 author_profile: true
 ---
 
-
-<img align="center" 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img 
      src="https://rasheedibrahim-politics.github.io/images/CIV1.JPG" 
-     alt="Photo" 
-     style="width: 80%; border-radius: 10px; padding: 8px"/>
+     alt="Photo 1" 
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
+  <img 
+     src="https://rasheedibrahim-politics.github.io/images/IMG_5087.JPG" 
+     alt="Photo 2" 
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
+</div>
+
+
 
      
 
@@ -32,11 +39,11 @@ Clientelism literature has established voters demand for favoured status once th
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues1.png" 
      alt="Photo 1" 
-     style="width: 50%; border-radius: 10px; padding: 8px"/>
+     style="width: 60%; border-radius: 10px; padding: 8px"/>
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues2.png" 
      alt="Photo 2" 
-     style="width: 50%; border-radius: 10px; padding: 8px"/>
+     style="width: 60%; border-radius: 10px; padding: 8px"/>
 </div>
 
 ### In Preparation for Submission
