@@ -18,8 +18,20 @@ Scholars disagree about whether traditional leaders are inherently undemocratic 
      style="width: 80%; border-radius: 10px; padding: 8px"/>
 
 
-• Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
 
+## Knockin’ on MP’s Door: Who Contacts Their MP and Who Benefits? (with Paul Friesen)
+
+Clientelism literature has established voters demand for favoured status once their representative is in office. Empirical evidence on whether elites favor their partisan base once in office is mixed. While some have argued that representatives favor their voter base to keep them happy and loyal, others have found that elites in attempt to broaden their base favour swing voters. This study contributes to this seeming mismatch by tying distribution directly to voter demands. Across the global south, voters make direct demands to their representatives. This study investigates the extent to which elites responde these direct demands and how partisanship shapes this likelihood. We find that voters who contact their MPs are more likely to see improvement in infrastructure if they are politically align with their MP and if their party has absolute political control of the constituency.
+
+<img align="left" 
+     src="https://rasheedibrahim-politics.github.io/images/avenues1.png" 
+     alt="Photo" 
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
+
+<img align="right" 
+     src="https://rasheedibrahim-politics.github.io/images/avenues2.png" 
+     alt="Photo" 
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
 
 
 ### In Preparation for Submission
