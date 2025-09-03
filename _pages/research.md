@@ -5,15 +5,26 @@ author_profile: true
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img 
-     src="https://rasheedibrahim-politics.github.io/images/CIV1.JPG" 
-     alt="Photo 1" 
-     style="width: 50%; border-radius: 10px; padding: 8px"/>
-  <img 
-     src="https://rasheedibrahim-politics.github.io/images/IMG_5087.JPG" 
-     alt="Photo 2" 
-     style="width: 50%; border-radius: 10px; padding: 8px"/>
+  <figure style="width: 50%; text-align: center;">
+    <img 
+       src="https://rasheedibrahim-politics.github.io/images/CIV1.JPG" 
+       alt="Photo 1" 
+       style="width: 100%; border-radius: 10px; padding: 8px"/>
+    <figcaption style="font-size: 14px; color: gray; margin-top: -5px;">
+      Fieldwork in Bouaké, Ivory Coast
+    </figcaption>
+  </figure>
+
+  <figure style="width: 50%; text-align: center;">
+    <img 
+       src="https://rasheedibrahim-politics.github.io/images/IMG_5087.JPG" 
+       alt="Photo 2" 
+       style="width: 100%; border-radius: 10px; padding: 8px"/>
+    <figcaption style="font-size: 14px; color: gray; margin-top: -5px;">
+    </figcaption>
+  </figure>
 </div>
+
 
      
 
