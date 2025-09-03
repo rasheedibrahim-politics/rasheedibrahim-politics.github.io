@@ -48,11 +48,11 @@ Clientelism literature has established voters demand for favoured status once th
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues1.png" 
      alt="Photo 1" 
-     style="width: 60%; border-radius: 10px; padding: 8px"/>
+     style="width: 55%; border-radius: 10px; padding: 8px"/>
   <img 
      src="https://rasheedibrahim-politics.github.io/images/avenues2.png" 
      alt="Photo 2" 
-     style="width: 60%; border-radius: 10px; padding: 8px"/>
+     style="width: 55%; border-radius: 10px; padding: 8px"/>
 </div>
 
 ### In Preparation for Submission
