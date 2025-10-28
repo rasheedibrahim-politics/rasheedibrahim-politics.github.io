@@ -21,7 +21,7 @@ Drawing on Afrobarometer survey data, a new dataset of constituency-level electi
 <img align="left" 
      src="https://rasheedibrahim-politics.github.io/images/distribution_contact.png" 
      alt="Photo" 
-     style="width: 40%; border-radius: 10px; padding: 8px"/>
+     style="width: 80%; border-radius: 10px; padding: 8px"/>
 
 
 
