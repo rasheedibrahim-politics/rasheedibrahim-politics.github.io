@@ -19,7 +19,7 @@ My dissertation investigates how electoral competition and turnover shape citize
 <img align="left" 
      src="https://rasheedibrahim-politics.github.io/images/election_interaction.png" 
      alt="Photo" 
-     style="width: 80%; border-radius: 10px; padding: 8px"/>
+     style="width: 50%; border-radius: 10px; padding: 8px"/>
 
 
 Drawing on Afrobarometer survey data, a new dataset of constituency-level election results, and qualitative interviews with MPs, I show that voters in constituencies with **higher seat turnover and closer electoral margins** are significantly more likely to contact their MPs. Robustness checks reveal that this effect does not extend to unelected or non-legislative elites, underscoring that voters respond specifically to signals of **electoral accountability**. This research contributes to broader debates on democratic responsiveness and political behavior in Africa. It shows that even in clientelistic settings, citizens are not merely passive or misinformed but make **contextually rational decisions** about how to engage the state—thereby reshaping our understanding of accountability under competitive clientelism.
